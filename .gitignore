@@ -9,3 +9,6 @@ data/
 
 # Hide rconnect folders
 rsconnect/
+
+# Data preprocessing
+prepData.R
