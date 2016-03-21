@@ -1,0 +1,11 @@
+# R History and data files
+.Rhistory
+.Rapp.history
+.RData
+.Rd
+
+# Hide data folders
+data/
+
+# Hide rconnect folders
+rsconnect/
